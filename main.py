@@ -1,3 +1,2 @@
-alunos = ["maria", "pedro", "mayara", "evily"]
-for aluno in alunos:
-    print(f"bem-vindo(a) à aula, {aluno}!")
+cor = input("Qual é a sua cor favorita? ")
+print("A cor " + cor + "é muito bonita!")
