@@ -1,6 +1,3 @@
-idade = 20
-
-if idade >= 18:
-    print("Acesso liberado!")
-else:
-    print("Acesso negado! Menor de idade.")
+alunos = ["maria", "pedro", "mayara", "evily"]
+for aluno in alunos:
+    print(f"bem-vindo(a) à aula, {aluno}!")
